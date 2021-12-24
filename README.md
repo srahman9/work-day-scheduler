@@ -8,5 +8,5 @@ About: A calendar application that allows the user to save events for each hour 
 
 How to access Work Day Scheduler:
 
-- Use the following website URL to access the Work Day Scheduler:
-- Use the following GitHub URL to access the Work Day Scheduler repo: git@github.com:srahman9/work-day-scheduler.git
+- Use the following website URL to access the Work Day Scheduler: https://srahman9.github.io/work-day-scheduler/
+- Use the following GitHub URL to access the Work Day Scheduler repo: https://git@github.com:srahman9/work-day-scheduler.git
